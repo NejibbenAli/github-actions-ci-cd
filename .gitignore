@@ -1,0 +1,7 @@
+#Logs
+Logs
+*.Log
+
+#Trmporary folders
+tmp/
+temp/
